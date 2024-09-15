@@ -1,0 +1,6 @@
+King County House Sales Dashboard (Tableau Project)
+Developed an interactive dashboard analyzing house sales in King County, Washington, focusing on daily average house prices, distribution of prices, and home characteristics like bedrooms, bathrooms, and lot sizes.
+Analyzed the distribution of house prices, identifying trends in average sales prices over a period and correlations with property features.
+Visualized the geographical distribution of sales, identifying regional price differences using map-based visualizations.
+Created heatmaps to assess the relationship between house conditions and views, helping in evaluating property values.
+Provided a comprehensive overview of house prices to assist stakeholders in making data-driven decisions about property investments. Showcased potential price trends, house condition, and view-related insights that would guide buyers and real estate agents.
